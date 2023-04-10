@@ -1,0 +1,4 @@
+PySimpleGUI
+getpass
+Pillow
+stability-sdk
